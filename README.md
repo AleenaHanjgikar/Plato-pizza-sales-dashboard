@@ -30,9 +30,11 @@ Home Page
 <img width="870" height="493" alt="Home" src="https://github.com/user-attachments/assets/c3077cec-a513-4dfa-b210-355d0ff7a0b6" />
 
 Best/Worst Pizzas
+
 <img width="872" height="503" alt="Best_Worst_pizza" src="https://github.com/user-attachments/assets/bda65dde-dd0a-4eba-9382-649f54ae0490" />
 
 Sales Breakdown
+
 <img width="871" height="492" alt="Sales_Breakdown" src="https://github.com/user-attachments/assets/3e4495a7-f094-41f9-8408-533d7446f25d" />
 
 
